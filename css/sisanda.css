@@ -1,0 +1,36 @@
+body{
+background: url("/home/up4all/Downloads/mamfene.jpg");
+background-size: 800px cover;
+}
+
+h1{
+  text-align:center;
+  color:white;
+}
+
+h2{
+	text-align:center;
+	color:white;
+}
+p {
+  font-size:20px;
+  text-align:center;
+  color: white;
+}
+ ul{
+
+ 	text-align:center;
+}
+
+li{
+    display: inline; 
+    font-size: 30px;
+    background: gray;
+    border-radius: 30px;
+    margin: 10px;
+
+}
+ a{
+    color: white;
+    text-decoration: none;
+}
